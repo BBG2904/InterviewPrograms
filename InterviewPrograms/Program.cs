@@ -8,3 +8,5 @@ FibonacciSeries.printFibonacciSeriesIteration();
 PrintSubSequence.printSubSequence();
 SumOfSubSet.PrintSumOfSubSets();
 Permutations.PermutationIteration();
+Pattern.PrintTriangles();
+Factorial.printFactorial();
