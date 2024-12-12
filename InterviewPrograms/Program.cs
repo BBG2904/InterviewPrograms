@@ -10,3 +10,4 @@ SumOfSubSet.PrintSumOfSubSets();
 Permutations.PermutationIteration();
 Pattern.PrintTriangles();
 Factorial.printFactorial();
+HourGlass.DoHourGlass();
